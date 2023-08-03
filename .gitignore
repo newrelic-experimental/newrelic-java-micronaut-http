@@ -1,0 +1,8 @@
+.java-version
+.git
+.github
+bin
+build
+.settings
+.classpath
+.project
